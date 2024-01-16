@@ -1,0 +1,8 @@
+###
+# @name CREATE-NEW-RESTAURANT
+POST  http://localhost:3333/restaurant
+Content-Type: application/json
+
+{
+  "name": "AnotaAi2"
+}
